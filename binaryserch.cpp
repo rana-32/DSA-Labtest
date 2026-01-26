@@ -22,7 +22,7 @@ int main()
 
         cin>> a[i];
     }
-    sort(a,a+n);
+
     while(s<=e)
     {
         int mid = (s+e)/2;
@@ -61,6 +61,7 @@ int main()
 
 
 }
+
 
 
 
